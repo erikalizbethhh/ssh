@@ -11,6 +11,7 @@ public class Cliente {
     //mi primer tarea
     private String nombreapellido;
     private ArrayList<Producto> compras;
+    private String age;
 
    public Cliente(String nombre) {
         this.nombreapellido = nombreapellido;
